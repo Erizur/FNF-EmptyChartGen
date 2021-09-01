@@ -2,4 +2,4 @@
 Simple empty chart generator I made for FNF.
 You need atleast Python 3.6 to run this tool.
 
-The instructions are in the file.
+The instructions are shown when running the app.
